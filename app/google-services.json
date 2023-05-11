@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549017313464",
+    "project_id": "smart-cash-box-c3783",
+    "storage_bucket": "smart-cash-box-c3783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549017313464:android:3328a30a68f21b19de944d",
+        "android_client_info": {
+          "package_name": "com.example.smartcashbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549017313464-otfomte8bk6d1k2ka20mcqij5pqd0rft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-59rDqBDtKvMnxpRbVG0BgTlKoeJ1fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549017313464-otfomte8bk6d1k2ka20mcqij5pqd0rft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
